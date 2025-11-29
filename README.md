@@ -5,9 +5,9 @@
 
 ---
 
-## 📋 Deskripsi Projek
+## Deskripsi Projek
 
-Dashboard Cuaca adalah aplikasi web interaktif yang menampilkan informasi cuaca real-time untuk berbagai kota di seluruh dunia. Aplikasi ini dibangun menggunakan **PHP Native** sebagai backend dan **JavaScript** untuk frontend, dengan memanfaatkan **OpenWeatherMap API** untuk mendapatkan data cuaca terkini dan prakiraan 5 hari ke depan.
+Project ini adalah web interaktif yang menampilkan informasi cuaca real-time untuk berbagai kota di seluruh dunia. Web ini saya bangun menggunakan **PHP Native** sebagai backend dan **JavaScript** untuk frontend, dengan menggunakan api dari **OpenWeatherMap API** untuk mendapatkan data cuaca terkini dan prakiraan 5 hari ke depan dari kota yang dicari.
 ---
 
 ## ✨ Fitur Utama
@@ -25,15 +25,15 @@ Dashboard Cuaca adalah aplikasi web interaktif yang menampilkan informasi cuaca 
 
 ### 4.  **Sistem Favorit**
 
-### 5. 🔄 **Auto Refresh & Manual Refresh**
+### 5.  **Auto Refresh & Manual Refresh**
 
 ### 6.  **Mode Gelap/Terang (Dark/Light Mode)**
 
-### 7. 🌡️ **Konversi Satuan Suhu**
+### 7.  **Konversi Satuan Suhu**
 - **Celsius (°C)**: Sistem metrik (default)
 - **Fahrenheit (°F)**: Sistem imperial
 
-### 9. ⚠️ **Error Handling**
+### 9.  **Error Handling**
 - **Validasi Input**: Pengecekan input pengguna
 - **Error Messages**: Pesan error yang jelas dan informatif
 - **API Error Handling**: Menangani berbagai error dari API (404, 500, timeout)
